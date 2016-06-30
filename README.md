@@ -5,7 +5,7 @@
 
 ##Graph
 * [Bellman Ford](https://github.com/rhs0266/PS_library/blob/master/graph/BellmanFord.rhs)
-* [Hopcroft Karp](https://github.com/rhs0266/PS_library/blob/master/graph/Hopcroft_Karp.rhs)
+* [Hopcroft Karp](https://github.com/rhs0266/PS_library/blob/master/graph/Hopcroft_Karp.bsw)
 * [Dijkstra](https://github.com/rhs0266/PS_library/blob/master/graph/dijkstra.rhs)
 
 ##Simple
